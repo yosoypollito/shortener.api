@@ -2,7 +2,7 @@ package link
 
 import (
 	"github.com/gin-gonic/gin"
-	"shortener/api/links"
+	"shortener/api/structs/links"
 	"net/http"
 	"shortener/api/helpers"
 )
